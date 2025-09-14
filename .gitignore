@@ -1,0 +1,20 @@
+# Backup and temp files
+*.bak
+*.swp
+*.tmp
+*~
+
+# WoW client cache/logs
+/WTF/
+/Cache/
+/Logs/
+/Screenshots/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE/editor stuff
+.vscode/
+.idea/
