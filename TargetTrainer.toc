@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+## Interface: 110002
+## Title: Target Trainer
+## Notes: Practice healer targeting (Q targets Tank, 1/2/3 DPS, Mousewheel Down = Self)
+## Author: You
+## Version: 1.1
+## SavedVariablesPerCharacter: TargetTrainerDB
+TargetTrainer.lua
+=======
+## Interface: 110002
+## Title: Target Trainer
+## Notes: Practice healer targeting (Q targets Tank, 1/2/3 DPS, Mousewheel Down = Self)
+## Author: You
+## Version: 1.1
+## SavedVariablesPerCharacter: TargetTrainerDB
+TargetTrainer.lua
+>>>>>>> c21aae15c321754128a192f2a805029e3388b1ac
